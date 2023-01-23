@@ -1,0 +1,33 @@
+body {
+	display: flex;
+	flex-direction: column;
+	font-family: serif,sans-serif,arial;
+}
+
+.header {
+	align-content: center;
+	font-size:40px;
+	font-weight:600;
+	justify-content:center;
+	margin:30px;
+	
+}
+
+.user{
+	display: flex;
+	align-items:center;
+	justify-content:space-evenly;
+	margin:25px;
+	padding:10px;
+}
+
+.options {
+	display: flex;
+	align-items:center;
+	justify-content:space-evenly;
+	margin:25px;
+}
+
+a {
+	text-decoration:none;
+}

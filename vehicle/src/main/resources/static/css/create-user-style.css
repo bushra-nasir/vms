@@ -1,0 +1,18 @@
+form {
+	display:flex;
+	flex-direction:column;
+	justify-content:space-evenly;
+	align-content:space-evenly
+}
+
+input{
+	margin-right:700px;	
+	margin-bottom:12px;
+}
+
+button{
+	margin-top:20px;
+	margin-left:600px;
+	margin-right:730px;
+	align-items:center;
+}
